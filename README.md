@@ -6,4 +6,3 @@ If you want to exit hit alt+f4 :)
 
 
 [![Watch the video](https://img.youtube.com/vi/XGX0F37rRSc/maxresdefault.jpg)](https://youtu.be/XGX0F37rRSc)
-
